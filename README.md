@@ -1,7 +1,7 @@
 Hey, Look here! 👋
 
 
-I'm sun, a office worker from shandong, China. I ❤️ code
+I'm sun, a school student from shandong, China. I ❤️ code
 
 ⚒️ CSS/HTML/JavaScript/Vue/Typescript/React/PHP
 📦 Building
