@@ -1,11 +1,11 @@
-- 👋 Hi, I’m 康腾
-- 👀 I’m interested in everythings
-- 🌱 I’m currently learning JaVa PHP CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-mail.qq.com
+Hey, Look here! 👋
 
-<!---
-ktsir/ktsir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I'm sun, a office worker from shandong, China. I ❤️ code
+
+⚒️ CSS/HTML/JavaScript/Vue/Typescript/React/PHP
+📦 Building
+✏️ VS Code / Notepad++ / Navicat
+🌱 Prepare to study advanced web front end development
+👨 Pronouns: he/him
+🤔 Constantly make yourself better
